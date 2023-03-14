@@ -1,3 +1,4 @@
+Copy and paste the autolink url from adguard device settings from dashboard to the .bat file in place of aguard_IP_connect_link and add the batch file to startup.
 ## Follow these steps:
 
 1. Go to Device Settings from Adguard dashboard.
