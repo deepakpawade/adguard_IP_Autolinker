@@ -20,4 +20,4 @@ Copy and paste the autolink url from adguard device settings from dashboard to t
 
 ###Errors:
 If the bat file isn't working, it might be possible that there might be some errors dumped in the ip.txt file.
-1. in case of ```The response content cannot be parsed because the Internet Explorer engine is not available, or ... ``` use after the urls that fetches the current IP -UseBasicParsing
+1. in case of ```The response content cannot be parsed because the Internet Explorer engine is not available, or ... ```, use ```-UseBasicParsing``` after the urls that fetches the current IP 
